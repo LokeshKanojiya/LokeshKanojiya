@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**L# 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m lookiHello! I'm Lokesh, an aspiring software developer.<br><br>Currently pursuing my MCA, with a completed BCA.<br><br>I am a beginner, but I am passionate about web development.<br><br>I have experience with HTML, CSS, Python, SQL, and DBMS.<br><br>I’m also learning React for front-end development.<br><br>I have a solid foundation in data structures, algorithms, and basic design work.<br><br>I enjoy creating small projects and sharing my progress.<br><br>I’m excited to grow, learn, and collaborate—I'd love to connect with others on this journey!ng for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
@@ -21,16 +18,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Lokesh Kanojiya&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->okeshKanojiya/LokeshKanojiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
