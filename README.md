@@ -61,7 +61,7 @@ Worked on deploying a Node.js web application using AWS EC2 and AWS S3. Configur
 ## 📂 Featured Projects
 
 - 🚀 AWS Cloud Web Deployment
-- 📍 Trackify – Bus Tracking System
+- 📍 Trackify – Bug Tracking System
 - 🏠 Home Service System
 - 🎓 University Management System
 
